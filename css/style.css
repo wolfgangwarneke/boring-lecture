@@ -1,0 +1,25 @@
+.intro {
+  background-color: #ee87a3;
+  width: 50%;
+  border: 10px solid hotpink;
+  border-radius: 5px;
+}
+
+h2.intro {
+  font-family: cursive;
+  color: #fff;
+  text-decoration: overline;
+}
+
+h3.intro {
+  font-style: italic;
+}
+
+p.intro {
+  font-family: sans-serif;
+}
+
+img.intro {
+  width: 25%;
+  margin-left: 25%;
+}
